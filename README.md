@@ -10,4 +10,4 @@ Con este programa puedes:
 - Ver el saldo que tienes
 - Ingresar dinero
 - Retirar dinero
-- Enviar dinero a otra cuenta
+
